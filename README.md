@@ -1,3 +1,3 @@
-# My Awesome Book
+# How to Run a REST Fest
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+[REST Fest](http://restfest.org/) is a collaborative unconference founded in 2010 by [Mike Amundsen](http://amundsen.com/) and [Benjamin Young](http://bigbluehat.com/ "aka BigBlueHat").
