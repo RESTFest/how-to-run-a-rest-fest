@@ -1,7 +1,7 @@
 {
   "title": "How to Run a REST Fest",
   "gitbook": ">3.0.0",
-  "plugins": ["edit-link", "github"],
+  "plugins": ["edit-link", "fontsettings", "github"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/RESTFest/how-to-run-a-rest-fest/tree/master",
